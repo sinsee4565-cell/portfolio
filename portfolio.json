@@ -6,8 +6,8 @@
     {
       "week": 1,
       "title": "감 테스트",
-      "line": "감을 테스트를 하는 것",
-      "judgment": "눈 강설량을 1cm로 기준을 잡았다. 다른 검증은 엑셀로 세보았다.",
+      "line": "첫 데이터 공부 결과 - 감테스트 만들기",
+      "judgment": "데이터와 한계에 대해 파악하고 기재한다. 기준을 제대로 설정한다.",
       "ai": ["Claude Code", "v0", "Perplexity"],
       "url": "https://gam-test-kappa-ashen.vercel.app/",
       "img": "img/w1.jpg"
