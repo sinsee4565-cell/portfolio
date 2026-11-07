@@ -11,6 +11,15 @@
       "ai": ["Claude Code", "v0", "Perplexity"],
       "url": "https://gam-test-kappa-ashen.vercel.app/",
       "img": "img/w1.jpg"
+    },
+    {
+      "week": 2,
+      "title": "사내 물류 업무 요청 분류기 — 빈 폴더에서",
+      "line": "물류 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
+      "judgment": "품질에 대한 문의를 가장 나쁜것으로 정했다.",
+      "ai": ["Claude Code", "Gemini"],
+      "url": "https://my-classifier-gray.vercel.app/",
+      "img": ""
     }
   ],
   "proposal": null
